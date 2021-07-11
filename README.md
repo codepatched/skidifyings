@@ -18,5 +18,4 @@
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="">
 </p>
 
-https://img.shields.io/badge/xannyy-xannyyx-blue
 ![](https://hit.yhype.me/github/profile?user_id=86875119)
